@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="faa4600d-7872-4252-83ab-e2ecf90b1a8b" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../PythonProject1/Adaptive_Histogram_Equalizer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PythonProject3" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonProject3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +78,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
