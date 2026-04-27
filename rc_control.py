@@ -1,4 +1,4 @@
-from pysimverse import Drone
+from pysimverse import Dronehand
 
 drone=Drone()
 drone.connect()

@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faa4600d-7872-4252-83ab-e2ecf90b1a8b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Keyboard_control.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/drone_video_frame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image_capture_mission.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rc_control.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/hand_landmarker.task" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Models/pose_landmarker_heavy.task" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/body_pose_jump_detection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hand_gesture_control_mission.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hand_gestures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mission_controlling_drone_with_jump.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PythonProject1/Adaptive_Histogram_Equalizer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rc_control.py" beforeDir="false" afterPath="$PROJECT_DIR$/rc_control.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PythonProject3" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonProject3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,19 +55,29 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Keyboard_control.executor": "Run",
+    "Python.body_pose_jump_detection.executor": "Run",
     "Python.drone_video_frame.executor": "Run",
     "Python.first_flight.executor": "Run",
+    "Python.hand_gesture_control_mission.executor": "Run",
+    "Python.hand_gestures.executor": "Run",
     "Python.image_capture_mission.executor": "Run",
+    "Python.mission_controlling_drone_with_jump.executor": "Run",
     "Python.rc_control.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/IT-Admin/PycharmProjects/PySimVerse/Models",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\IT-Admin\PycharmProjects\PySimVerse\Models" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
