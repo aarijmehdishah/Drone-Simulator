@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="faa4600d-7872-4252-83ab-e2ecf90b1a8b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Models/hand_landmarker.task" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Models/pose_landmarker_heavy.task" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/body_pose_jump_detection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hand_gesture_control_mission.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hand_gestures.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mission_controlling_drone_with_jump.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/color_detector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mission5_line_follower_drone_color_detection.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PythonProject1/Adaptive_Histogram_Equalizer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rc_control.py" beforeDir="false" afterPath="$PROJECT_DIR$/rc_control.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PythonProject3" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonProject3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +42,9 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="3BLSs6g43a2iCMLOxLcijvaCLBb" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -56,6 +54,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.Keyboard_control.executor": "Run",
     "Python.body_pose_jump_detection.executor": "Run",
+    "Python.color_detector.executor": "Run",
     "Python.drone_video_frame.executor": "Run",
     "Python.first_flight.executor": "Run",
     "Python.hand_gesture_control_mission.executor": "Run",
